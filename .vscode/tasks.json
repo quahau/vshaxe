@@ -2,6 +2,9 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
+/**
+ * "vshaxe-build"
+ */		{
 			"type": "vshaxe-build",
 			"target": "vshaxe (debug)",
 			"group": {
